@@ -48,23 +48,16 @@ I'm a versatile developer with experience across multiple programming paradigms.
 
 ## 🚀 Featured Projects
 
-### 🍽️ Restaurant Management System
+### 🍽️ [Restaurant Management System](https://github.com/jahjoo/gestion-restaurant-symfony)
 **Symfony 6.4, MySQL, Twig, JavaScript**  
 Complete web application for restaurant operations: online reservations, e-commerce platform, admin dashboard with real-time analytics.
 
-### 🛒 Techstore-Dashboard
+### 🛒 [Techstore-Dashboard](https://github.com/jahjoo/Techstore-Dashboard)
 **JavaScript, Modern UI/UX**  
 Administrative dashboard for managing products, orders, customers, and analytics in a tech e-commerce environment.
 
 ### 💻 More Projects Coming Soon...
 Currently working on various projects involving data structures, algorithms, and full-stack development.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jahjoo&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahjoo&layout=compact&theme=radical)
 
 ---
 
@@ -77,11 +70,13 @@ Currently working on various projects involving data structures, algorithms, and
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghali-kharmoudy/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kharmoudy.ghali@gmail.com)
 
 ---
 
 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+---
 
 ⭐ From [jahjoo](https://github.com/jahjoo)
